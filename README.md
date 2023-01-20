@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phanuelnd
 - 👀 I’m interested in Python programming.
-- 🌱 I’m currently learning JavaScript...
+- 🌱 I’m currently learning JavaScript at Andela...
 - 💞️ I’m looking to collaborate on Project development..
 - 📫 How to reach me LinkedIn https://www.linkedin.com/in/phanuel-ndikumana-a550a6219
 
