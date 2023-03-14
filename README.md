@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Phanuel, Final year at UR CST
+- 👋 Hi, I’m Phanuel, finalist at UR CST
 - 👀 I’m interested in Python programming.
 - 🌱 I’m currently learning JavaScript at Andela...
 - 💞️ I’m looking to collaborate on Project development..
