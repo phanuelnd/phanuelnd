@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Phanuel, a student at CMU
 - 👀 I’m interested in Data Science and SWE.
-- 💞️ I’m looking to collaborate on the projects with the above languages
+- 💞️ I’m looking to collaborate on the projects within TS, JS and Java Programming languages
 - 📫 How to reach me: LinkedIn https://www.linkedin.com/in/phanuel-ndikumana-a550a6219
 - Email: ndikumanaphanuel@gmail.com
 
