@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Phanuel, finalist at UR, CST
-- 👀 I’m interested in TypeScript and Python programming.
+- 👋 Hi, I’m Phanuel, a student at CMU
+- 👀 I’m interested in Data Science and SWE.
 - 💞️ I’m looking to collaborate on the projects with the above languages
 - 📫 How to reach me: LinkedIn https://www.linkedin.com/in/phanuel-ndikumana-a550a6219
 - Email: ndikumanaphanuel@gmail.com
