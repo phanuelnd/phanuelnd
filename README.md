@@ -1,8 +1,22 @@
-- 👋 Hi, I’m Phanuel, a student at CMU
-- 👀 I’m interested in Data Science and SWE.
-- 💞️ I’m looking to collaborate on projects within TS, JS, and Java Programming languages
-- 📫 How to reach me: LinkedIn https://www.linkedin.com/in/phanuel-ndikumana-a550a6219
-- Email: ndikumanaphanuel@gmail.com
+# Hi, I'm Phanuel 👋
+
+MSc graduate from Carnegie Mellon University
+
+Senior Software Engineer (backend, cloud infrastructure, and AI)
+
+Interests:
+- SWE, Data, Cloud computing and Distributed Systems.
+
+Open to collaborating on projects involving:
+- ts, js, Java, Go, and ofc Python
+
+📫 Connect with me:
+* **LinkedIn:** [in/phanuel-ndikumana](https://www.linkedin.com/in/phanuel-ndikumana-a550a6219)
+* **Email:** [ndikumanaphanuel@gmail.com](mailto:ndikumanaphanuel@gmail.com)
+
+Based in Denmark, originally from Rwanda.
+
+Outside of tech, i enjoy history, paints and cosmology
 
 <!---
 phanuelnd/phanuelnd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
