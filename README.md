@@ -14,7 +14,7 @@ Open to collaborating on projects involving:
 * **LinkedIn:** [phanuel-ndikumana](https://www.linkedin.com/in/phanuel-ndikumana-a550a6219)
 * **Email:** [ndikumanaphanuel@gmail.com](mailto:ndikumanaphanuel@gmail.com)
 
-Based in Denmark, and from 🇷🇼
+Based in Denmark, from Kigali, Rwanda
 
 Outside of tech, i enjoy history, paints and cosmology
 
