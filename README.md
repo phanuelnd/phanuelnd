@@ -16,7 +16,7 @@ Open to collaborating on projects involving:
 
 Based in Denmark, from Kigali, Rwanda
 
-Outside of tech, i enjoy history, paints, lanuage, and cosmology
+Outside of tech, i enjoy history, paints, language, and cosmology
 
 <!---
 phanuelnd/phanuelnd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
