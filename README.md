@@ -1,8 +1,6 @@
 Hi, I'm Phanuel
 
-MSc graduate from Carnegie Mellon University, PA
-
-Senior Software Engineer (backend, cloud infrastructure, and AI)
+A senior software engineer (backend, cloud infrastructure, and AI)
 
 Interests:
 - SWE, Data, Cloud computing and Distributed Systems.
